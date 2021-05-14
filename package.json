@@ -1,0 +1,18 @@
+{
+  "name": "vaccinenotifier",
+  "version": "1.0.0",
+  "description": "A simple Notifier for checking the Vaccine Availibility Slots",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "dhaval.shah454@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.21.1",
+    "dotenv": "9.0.2",
+    "moment": "2.29.1",
+    "lodash.get": "4.4.2",
+    "node-cron": "3.0.0"
+  }
+}
